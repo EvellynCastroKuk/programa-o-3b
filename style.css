@@ -1,5 +1,4 @@
- @import url('https://fonts.googleapis.com/css?family=Chakra+Petch:wght@400;700&display=swap');
- 
+ @import https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap&#39
 :root {
 --cor-de-fundo: #ffffff;
 --verde: #002fff;
@@ -110,9 +109,7 @@ margin: 0;
 color: var(--verde);
 font-size: 20px;
 margin: 0;
-
 }
-
 @media screen and (min-width: 768px) {
 .botoes {
 display: flex;
@@ -124,5 +121,4 @@ border-radius: 40px 0 0 0;
 
 .botao:last-child {
 border-radius: 0 40px 0 0;
-}
 }
